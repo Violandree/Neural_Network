@@ -1,0 +1,21 @@
+# ninja log v5
+75	343	7236484731831223	CMakeFiles/NeuralNetworks.dir/tanh_af.cpp.obj	68c42beaf0ef58a1
+25	322	7236484731683089	CMakeFiles/NeuralNetworks.dir/re_lu.cpp.obj	4058f9f45d790d1b
+35	284	7236484731683089	CMakeFiles/NeuralNetworks.dir/activation_function.cpp.obj	6da5d5e01f3f0544
+303	1187	7236484740727849	CMakeFiles/NeuralNetworks.dir/nn_model.cpp.obj	cef75fe880a2f3d1
+61	907	7236484737940286	CMakeFiles/NeuralNetworks.dir/dense_matrix.cpp.obj	24089f23318973c5
+46	302	7236484731683089	CMakeFiles/NeuralNetworks.dir/sigmoid.cpp.obj	5181926d61223427
+284	1056	7236484739298967	CMakeFiles/NeuralNetworks.dir/neuron.cpp.obj	b716cc0ed18c73d3
+323	1145	7236484740410491	CMakeFiles/NeuralNetworks.dir/layer.cpp.obj	9e2d0f1a4e3e831
+5	1062	7236484739298967	CMakeFiles/NeuralNetworks.dir/main.cpp.obj	f74dcc219f8e1a95
+1187	1574	7236484744528875	NeuralNetworks.exe	7690ae23c7020a6d
+19	140	7240206815135726	CMakeFiles/NeuralNetworks.dir/sigmoid.cpp.obj	2cebb0cc4aece8f0
+30	156	7240206815312850	CMakeFiles/NeuralNetworks.dir/re_lu.cpp.obj	86ae1d5cf3dac154
+40	171	7240206815367644	CMakeFiles/NeuralNetworks.dir/tanh_af.cpp.obj	9d7716dd50c31469
+11	187	7240206815468434	CMakeFiles/NeuralNetworks.dir/activation_function.cpp.obj	5a2382107da10699
+53	577	7240206819556095	CMakeFiles/NeuralNetworks.dir/dense_matrix.cpp.obj	9441c7749f547e4d
+141	661	7240206820382277	CMakeFiles/NeuralNetworks.dir/layer.cpp.obj	945af2aa2c68da53
+171	680	7240206820583138	CMakeFiles/NeuralNetworks.dir/neuron.cpp.obj	ae01a23e9eff2762
+0	680	7240206820583138	CMakeFiles/NeuralNetworks.dir/main.cpp.obj	9eb886eec3c9ed2b
+157	729	7240206821121767	CMakeFiles/NeuralNetworks.dir/nn_model.cpp.obj	39b637a0f595feb8
+729	966	7240206823346045	NeuralNetworks.exe	7690ae23c7020a6d

@@ -1,0 +1,4 @@
+# Ignora la cartella all'interno di una specifica directory
+
+users/andre/Desktop/Challenge/NeuralNetwork/.idea
+users/andre/Desktop/Challenge/NeuralNetwork/cmake-build-debug
